@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">ライコネ ロゴ</title>
+  <desc id="desc">ブラックのタイヤ形状の外輪と緑のセンターにライコネの文字を配置したロゴ。</desc>
+  <defs>
+    <radialGradient id="coreGlow" cx="50%" cy="45%" r="60%">
+      <stop offset="0%" stop-color="#4ade80" />
+      <stop offset="55%" stop-color="#22c55e" />
+      <stop offset="100%" stop-color="#16a34a" />
+    </radialGradient>
+  </defs>
+  <polygon points="390,200 358.03,225.03 380.70,258.71 342.56,272.64 353.71,311.68 313.14,313.14 311.68,353.71 272.64,342.56 258.71,380.70 225.03,358.03 200,390 174.97,358.03 141.29,380.70 127.36,342.56 88.32,353.71 86.86,313.14 46.29,311.68 57.44,272.64 19.30,258.71 41.97,225.03 10,200 41.97,174.97 19.30,141.29 57.44,127.36 46.29,88.32 86.86,86.86 88.32,46.29 127.36,57.44 141.29,19.30 174.97,41.97 200,10 225.03,41.97 258.71,19.30 272.64,57.44 311.68,46.29 313.14,86.86 353.71,88.32 342.56,127.36 380.70,141.29 358.03,174.97" fill="#0a0a0a" />
+  <circle cx="200" cy="200" r="150" fill="none" stroke="#0a0a0a" stroke-width="28" />
+  <circle cx="200" cy="200" r="142" fill="url(#coreGlow)" />
+  <circle cx="200" cy="200" r="134" fill="none" stroke="#064e3b" stroke-width="6" opacity="0.45" />
+  <text x="200" y="210" text-anchor="middle" dominant-baseline="middle" fill="#053321" font-size="84" font-weight="700" letter-spacing="6" font-family="'Zen Kaku Gothic New','BIZ UDPゴシック','Noto Sans JP',sans-serif">
+    ライコネ
+  </text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">Ride Connect Core</title>
+  <desc id="desc">緑のセンターサークルにRIDE CONNECTの文字を配置したコアパーツ。</desc>
+  <circle cx="200" cy="200" r="124" fill="#3aad39" stroke="#050505" stroke-width="14" />
+  <text x="200" y="168" text-anchor="middle" dominant-baseline="middle" fill="#050505" font-family="'Orbitron','Rajdhani','Arial Black',sans-serif" font-size="34" font-weight="700" letter-spacing="2.5">
+    <tspan x="200" dy="0">RIDE</tspan>
+    <tspan x="200" dy="44">CONNECT</tspan>
+  </text>
+</svg>
